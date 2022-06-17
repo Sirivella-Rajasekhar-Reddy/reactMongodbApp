@@ -1,0 +1,6 @@
+{
+    "students": {
+        "getAll": "https://hellojntuamongodb.herokuapp.com/api/v1/students",
+        "post": "https://hellojntuamongodb.herokuapp.com/api/v1/students"
+    }
+}
